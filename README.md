@@ -105,3 +105,4 @@ To delete the ECR repository and App Runner service when you're finished:
 ---
 
 This completes the setup and deployment of your Nginx web app to AWS App Runner!
+# AWS-projects
